@@ -6,11 +6,11 @@ License: GPL-2.0+
 Section: utils
 Maintainer: Luka Perkov <luka@openwrt.org>
 Architecture: brcm63xx
-Installed-Size: 28197
+Installed-Size: 28142
 Filename: freecwmp_2014-06-12-8f3c163fc85337e63bfa64da3c02f10d1fe3b169_brcm63xx.ipk
-Size: 28887
-MD5Sum: 80df028b32f9365ed59fa6ccbe4f98c6
-SHA256sum: 8843fe5ad9d3ce738e0f9c694748b17bd1246f29294693e5eaf2028b6f2acf60
+Size: 28840
+MD5Sum: b646455aa4d0a4c4de947f9203b5bc9f
+SHA256sum: 968b9e67a7cc9bb50616b3ae62e077a59646b28e807e6090121f42a048c75566
 Description:  A free client implementation of CWMP (TR-069) protocol
 
 Package: freenetconfd
@@ -21,11 +21,11 @@ License: GPL-2.0+
 Section: utils
 Maintainer: Luka Perkov <luka@openwrt.org>
 Architecture: brcm63xx
-Installed-Size: 14243
+Installed-Size: 14186
 Filename: freenetconfd_2015-02-05-1b72de4d3fe7dd98a6ebdedecad080fe4ae1c07c_brcm63xx.ipk
-Size: 14972
-MD5Sum: bf9665434625e34138296d3e55c8707e
-SHA256sum: 9f04572e38baff660ff18e1cebed8893c59b42491ec42757aa00598163c88c01
+Size: 14916
+MD5Sum: ab15c5bbe76185b0addd3e20a372283b
+SHA256sum: 245ec222784f6377e5fe3b2732eb7e80e7a122b4709088f1b89009753ee614ca
 Description:  netconf server
 
 Package: freesub
@@ -36,11 +36,11 @@ License: GPL-2.0+
 Section: utils
 Maintainer: Luka Perkov <luka@openwrt.org>
 Architecture: brcm63xx
-Installed-Size: 2756
+Installed-Size: 2757
 Filename: freesub_2014-12-03-a1a38e80c6642af723d6aa65f64910dcf27cb3da_brcm63xx.ipk
-Size: 3539
-MD5Sum: 02e87dedc8b39abeecd6d42583b8d114
-SHA256sum: 9b3649bbe238b91ce7b408524293010e40ff13baf8664f8e85718da9906d737a
+Size: 3537
+MD5Sum: d277498e37d9d3855ae2b28679bd8aaa
+SHA256sum: 12a04f307a79a181a9bdb191cb567751067f930acb3ceb8c7f2e3a1ac72f4641
 Description:  SSH subsystem helper
 
 Package: libev
@@ -50,11 +50,11 @@ Source: feeds/management/libev
 License: BSD-2-Clause
 Section: libs
 Architecture: brcm63xx
-Installed-Size: 20045
+Installed-Size: 20034
 Filename: libev_4.15-3_brcm63xx.ipk
-Size: 20816
-MD5Sum: aac60d006209145c09767e1aa42a8c13
-SHA256sum: 02885e4c876e7f6b9cbbcb411cd79c1f02068979d95c4dc853cb5ebe62892ec2
+Size: 20803
+MD5Sum: 62607dcf2f2a0ffeb614d1f7863fa7a5
+SHA256sum: b575ae4d01112eba096160213fc6247c358b00fcbce60da3350cf801794d05a4
 Description:  A full-featured and high-performance event loop that is loosely modelled after
  libevent, but without its limitations and bugs.
 
@@ -68,9 +68,9 @@ Maintainer: Luka Perkov <luka@openwrt.org>
 Architecture: brcm63xx
 Installed-Size: 2297
 Filename: libfreecwmp_2014-06-12-d2fdd97d66fde14859c06228a922066d9e8b669b_brcm63xx.ipk
-Size: 3054
-MD5Sum: 846c25ff201d1538b854d12dfc233a35
-SHA256sum: a46a74564ec9b893072d4339818cf23d91c840a2848ceef1904baac39d0bc16b
+Size: 3064
+MD5Sum: 1f1c725101da2789233e03a76dc075a3
+SHA256sum: 12ef7dbe128d07fa60626bdd837d03db9cec8863630c9050c6897c918a28b407
 Description:  CWMP library
 
 Package: libmicroxml
@@ -80,11 +80,11 @@ Source: feeds/management/libmicroxml
 Section: libs
 Maintainer: Luka Perkov <luka@openwrt.org>
 Architecture: brcm63xx
-Installed-Size: 17783
+Installed-Size: 17829
 Filename: libmicroxml_2012-06-11-72965423184f24cc0b963d91c2d1863cdb01b6aa_brcm63xx.ipk
-Size: 18154
-MD5Sum: 68187bdd71ae93bcf7ab75aeb2aae814
-SHA256sum: 9d7b166dba0ef49af92f40eda89ad83483b8ea3a2e2fe001b14e4e7f4196f85f
+Size: 18227
+MD5Sum: c5068d9736866fbcdbd1a528b66e6842
+SHA256sum: 5bd03e9cea4fc556f801b060e6e86eb70ec71ebdd5ba2204be0ebc4d4b0b90a0
 Description:  A micro sized XML library
 
 Package: libnetconf
@@ -95,11 +95,11 @@ License: BSD-3-Clause
 Section: libs
 Maintainer: Jiri Slachta <slachta@cesnet.cz>
 Architecture: brcm63xx
-Installed-Size: 167818
+Installed-Size: 167442
 Filename: libnetconf_0.9.1-1_brcm63xx.ipk
-Size: 168574
-MD5Sum: 57b605fb09398ebdc57274a90c92283c
-SHA256sum: 177475b469b7c32c28c183942e583d3f94f48433df99680c082d4a06a1ab36df
+Size: 168188
+MD5Sum: 9bd76ced2e7aa75ea25950d3d0b3f45c
+SHA256sum: 67f9c3bd6852f77c13e4b447b13159c14224f4af4d209750df25557101a5742b
 Description:  libnetconf is the NETCONF library in C intended for building NETCONF clients and servers.
  
  libnetconf provides basic functions to connect NETCONF client and server to each other via
@@ -114,11 +114,11 @@ License: LGPL-2.1+ BSD-2-Clause
 Section: lib
 Maintainer: Luka Perkov <luka@openwrt.org>
 Architecture: brcm63xx
-Installed-Size: 99708
+Installed-Size: 99503
 Filename: libssh_2014-07-10-59a179950150d0305d6189ce9c126a9a0c5f6ab4_brcm63xx.ipk
-Size: 100563
-MD5Sum: b8c24373cf227a55a00e297582b3dd6e
-SHA256sum: ba391add013f443a72533905c72807f805a77b9f49c38c9de2118b01b3105391
+Size: 100404
+MD5Sum: 0373e850044967dd371f13d330af9732
+SHA256sum: b2f418635af9363b41ccb43cddbbada29b636f44d2664f013eb8a25ebc75b0c0
 Description:  libssh is a mulitplatform C library implementing the SSHv2 and SSHv1 protocol
  for client and server implementations.
 
@@ -130,11 +130,11 @@ License: LGPL-2.1
 Section: libs
 Maintainer: Luka Perkov <luka@openwrt.org>
 Architecture: brcm63xx
-Installed-Size: 4295
+Installed-Size: 4297
 Filename: shflags_2012-06-11_r133-1.0.x_brcm63xx.ipk
-Size: 5036
-MD5Sum: 047821c70e4c389f7bec2e13189ac23c
-SHA256sum: 2aed322bba8bbf1b8e9c7d1d1f0946b222aaabb0d03308f4b7d3ee981d4bb3aa
+Size: 5032
+MD5Sum: 336913c0d6044adec55ad017789f217a
+SHA256sum: 622b91773c5ae6b0f8aa97e0fdcc18afbbba9b2f06707172ef0c1af34787863e
 Description:  command-line flags module for Unix shell scripts
 
 Package: shtool
@@ -144,11 +144,11 @@ Source: feeds/management/shtool
 License: GPL-2.0+
 Section: utils
 Architecture: brcm63xx
-Installed-Size: 33556
+Installed-Size: 32131
 Filename: shtool_2.0.8-1_brcm63xx.ipk
-Size: 34406
-MD5Sum: 32d868f8121ded16db22cdc4604bd0e3
-SHA256sum: 284f26d62ec602e9ff97d3f6af8620d2cfc04d3b45026844ac0d0c0f40b77b35
+Size: 32944
+MD5Sum: f32e83421ff9c775756d4bc3c0413cda
+SHA256sum: 0965b654a8fa23b657e7128f2cd1cc63fda14ca02d79b4df4b12325dc86fad30
 Description:  GNU shtool is a compilation of small but very stable and portable shell
  scripts into a single shell tool.
 
